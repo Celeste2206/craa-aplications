@@ -2,7 +2,7 @@
 - Nombre: Celeste Ramírez Aranda
 - No. Control: 1224100616
 - Grupo: GTI174
-- Colaborador: 
+- Colaborador: Carlos Ramírez Monzon
 ## Especificaciones del proyecto
 | Nombre del proyecto | Framework | versión |
 | -- | -- | -- |

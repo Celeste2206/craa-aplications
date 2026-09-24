@@ -1,0 +1,7 @@
+Práctica de Git y GitHub
+
+Integrante: Charly
+Rol: Colaborador
+
+Se realizó trabajo mediante una rama independiente
+para demostrar el flujo de trabajo colaborativo con GitHub.
